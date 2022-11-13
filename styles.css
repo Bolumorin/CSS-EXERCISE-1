@@ -1,0 +1,36 @@
+body{
+  background-color: white;   
+}
+main{
+    width: 80%;
+    margin-left: 350px;
+}
+h1{
+  font-size: 18px;
+ 
+}
+
+#firstpara{
+    border: 5px solid rgb(127, 11, 243);
+    padding: 30px;
+    max-width: 50%;
+    color: green;
+    font-size: 14px;
+    margin-left: -200px;
+    background-color: black;
+}
+#secondpara{
+  border: 5px solid antiquewhite;
+  padding: 30px;
+  max-width: 50%;
+  font-size: 14px;
+  color: red;
+}
+#thirdpara{
+  border: 5px solid rgb(35, 230, 165);
+  padding: 30px;
+  max-width: 50%;
+  margin-left: -200px;
+  color: blue;
+  background-color: rgb(240, 232, 123);
+}
